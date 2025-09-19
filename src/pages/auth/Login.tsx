@@ -21,7 +21,7 @@ export default function Login() {
       <div className="hidden md:flex flex-col justify-center px-12 bg-[#1c1c1c] text-white">
         <div>
           <div className="text-3xl font-semibold tracking-tight" style={{ color: '#7ed957' }}>Super Admin</div>
-          <p className="mt-5 text-2xl leading-snug max-w-xl text-white/85">Manage everything in one place – complete control for administrators</p>
+          <p className="mt-5 text-2xl leading-snug max-w-xl text-white/85">complete control for administrators</p>
          
         </div>
       </div>
